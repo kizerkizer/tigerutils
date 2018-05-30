@@ -8,3 +8,6 @@
 
 ## license
 MIT
+
+## logo
+Logo purchased from http://www.vecteezy.com/
