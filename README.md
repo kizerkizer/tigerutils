@@ -1,3 +1,2 @@
 # tigerutils
-![logo]
-(https://raw.githubusercontent.com/kizerkizer/tigerutils/master/tiger-left.svg)
+![logo] (https://raw.githubusercontent.com/kizerkizer/tigerutils/master/tiger-left.svg "A Tiger")
