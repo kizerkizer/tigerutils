@@ -1,4 +1,4 @@
-# <img src="https://cdn.rawgit.com/kizerkizer/tigerutils/master/tiger-left.svg" width="112" height="54" /> tigerutils
+# <img src="https://cdn.jsdelivr.net/gh/kizerkizer/tigerutils/tiger-left.svg" width="112" height="54" /> tigerutils
 
 ## usage
 // TODO
