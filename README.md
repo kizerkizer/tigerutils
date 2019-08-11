@@ -1,4 +1,11 @@
-# <img src="https://cdn.rawgit.com/kizerkizer/tigerutils/master/tiger-left.svg" width="112" height="54" /> tigerutils
+#### Detect if inside IFrame
+```
+const inIFrame = () => window.self !== window.top
+```
+
+-------------------
+
+~~# <img src="https://cdn.rawgit.com/kizerkizer/tigerutils/master/tiger-left.svg" width="112" height="54" /> tigerutils
 
 ## usage
 // TODO
@@ -10,4 +17,4 @@
 MIT
 
 ## logo
-Logo purchased from http://www.vecteezy.com/
+Logo purchased from http://www.vecteezy.com/~~
